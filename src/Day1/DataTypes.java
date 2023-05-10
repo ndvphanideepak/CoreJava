@@ -8,8 +8,9 @@ public class DataTypes {
 		int a = 20;
 	      int r =  a; 
 	      System.out.println(r);
+		System.out.println(a);
 	System.out.println(r);
-	     
+
 	      
 
 		

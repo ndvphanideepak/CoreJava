@@ -16,6 +16,7 @@ public class DataTypes {
 		System.out.println(r);
 		System.out.println(r);
 		System.out.println(r);
+		System.out.println(a);
 	
 	     
 

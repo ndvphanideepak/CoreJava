@@ -7,7 +7,7 @@ public class Pattern {
 		//int n = 5;//switch stmt or loop inside if
 		for(int i =1;i<=20;i++) {
 
-			if(i==7|| i ==14 ||i==19)
+			if(i==7|| i ==14 ||i==19||i==4)
 			{
 				continue;
 			

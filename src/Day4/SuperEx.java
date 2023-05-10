@@ -20,7 +20,7 @@ class A
 class B extends A
 {
 int s;
-int t;
+int t,q,r;
 B()
 {
 	
